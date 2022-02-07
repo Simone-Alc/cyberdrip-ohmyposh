@@ -25,7 +25,7 @@ Set-Theme cyberdrip
 
 ## Terminal & Font
 
-- Terminal : Windows Terminal with [Cyberpunk SCARLETT Color Palette](https://gist.github.com/hasparus/37f8e6ceb4112a0e33f2223dd1e9dd2e) by [Hasparus](https://gist.github.com/hasparus)
+- Terminal : Windows Terminal with retro terminal effects activated + [Cyberpunk SCARLETT Color Palette](https://gist.github.com/hasparus/37f8e6ceb4112a0e33f2223dd1e9dd2e) by [Hasparus](https://gist.github.com/hasparus)
 
 - Font : [CaskaydiaCove Nerd Font](https://www.nerdfonts.com/font-downloads) // Any font with Ligatures and Terminal Glypyhs like Hack NF 
 
