@@ -2,7 +2,7 @@
 
 > A Cyberdrip theme for [Oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./image.png)
 
 ## Install
 
